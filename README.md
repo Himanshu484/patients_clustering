@@ -62,7 +62,7 @@ python analysis.py
 - Processed datasets in CSV format
 - Statistical summaries and t-test results
 
-## 🔍 Methodology
+## Methodology
 
 ### Topological Data Analysis
 - **Algorithm**: Sophisticated Mapper algorithm implementation
