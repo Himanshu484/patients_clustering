@@ -5,17 +5,17 @@ A novel approach to patient stratification and mortality prediction using Topolo
 
 ## Overview
 
-This repository contains the implementation of a groundbreaking study that applies Topological Data Analysis to the Women's Ischemia Syndrome Evaluation (WISE) study dataset [1]. Our research demonstrates how TDA can effectively segregate women into distinct patient subsets with significantly different long-term mortality risks, representing a paradigm shift toward precision medicine in cardiovascular care.
+This repository contains the implementation of a groundbreaking study that applies Topological Data Analysis to the Women's Ischemia Syndrome Evaluation (WISE) study dataset . Our research demonstrates how TDA can effectively segregate women into distinct patient subsets with significantly different long-term mortality risks, representing a paradigm shift toward precision medicine in cardiovascular care.
 
 ## Research Background
 
-Traditional risk stratification methods in cardiovascular medicine often rely on linear models that may fail to capture complex, multidimensional relationships in clinical data [1]. This study harnesses the power of TDA to identify distinct patient subsets and evaluate their association with long-term mortality outcomes [1].
+Traditional risk stratification methods in cardiovascular medicine often rely on linear models that may fail to capture complex, multidimensional relationships in clinical data . This study harnesses the power of TDA to identify distinct patient subsets and evaluate their association with long-term mortality outcomes .
 
 ### Key Findings
-- **Two Distinct Clusters**: TDA successfully identified two patient clusters with markedly different clinical profiles [1]
-- **Cluster A (n=386)**: Higher mortality risk, characterized by previous cardiovascular interventions and specific medication profiles [1]
-- **Cluster B (n=433)**: Lower mortality risk, featuring more comorbid conditions and medical complexity [1]
-- **Significant Survival Differences**: Kaplan-Meier analysis revealed striking long-term mortality differences between clusters [1]
+- **Two Distinct Clusters**: TDA successfully identified two patient clusters with markedly different clinical profiles 
+- **Cluster A (n=386)**: Higher mortality risk, characterized by previous cardiovascular interventions and specific medication profiles 
+- **Cluster B (n=433)**: Lower mortality risk, featuring more comorbid conditions and medical complexity 
+- **Significant Survival Differences**: Kaplan-Meier analysis revealed striking long-term mortality differences between clusters 
 
 ## Getting Started
 
@@ -80,7 +80,7 @@ python analysis.py
 
 The analysis reveals two clinically distinct patient phenotypes:
 
-**Cluster A Characteristics** [1]:
+**Cluster A Characteristics** :
 - Previous cardiovascular interventions
 - Nitrate usage, tamoxifen therapy
 - Prior PTCA and MI history
