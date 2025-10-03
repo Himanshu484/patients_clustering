@@ -5,7 +5,7 @@ A novel approach to patient stratification and mortality prediction using Topolo
 
 ## Overview
 
-This repository contains the implementation of a groundbreaking study that applies Topological Data Analysis to the Women's Ischemia Syndrome Evaluation (WISE) study dataset [1]. Our research demonstrates how TDA can effectively segregate women into distinct patient subsets with significantly different long-term mortality risks, representing a paradigm shift toward precision medicine in cardiovascular care [1].
+This repository contains the implementation of a groundbreaking study that applies Topological Data Analysis to the Women's Ischemia Syndrome Evaluation (WISE) study dataset [1]. Our research demonstrates how TDA can effectively segregate women into distinct patient subsets with significantly different long-term mortality risks, representing a paradigm shift toward precision medicine in cardiovascular care.
 
 ## Research Background
 
