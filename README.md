@@ -33,9 +33,8 @@ pip install sas7bdat openpyxl
 ├── Data/
 │   ├── wise1compdata10212019(1).sas7bdat    # Original WISE dataset
 │   ├── Variables.xlsx                        # Selected variables list
-│   ├── up_cluster.csv                       # Cluster A patient indices
-│   ├── down_cluster.csv                     # Cluster B patient indices
-│   └── processed/                           # Generated processed datasets
+│   ├── up_cluster.csv                       # Cluster A patient indices                   
+│   └── down_cluster.csv                     # Cluster B patient indices
 ├── analysis.py                              # Main analysis script
 └── README.md
 ```
